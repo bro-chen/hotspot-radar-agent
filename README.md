@@ -8,7 +8,8 @@
 
 **直接体验已发布的 Agent：** [https://www.coze.cn/s/1ky7eCMJtk0/](https://www.coze.cn/s/1ky7eCMJtk0/)
 
-在对话框输入"帮我采集今天的热点"即可触发，完成后报告将自动发送到你的邮箱。
+在对话框输入"帮我采集今天的热点"+"发送到邮箱XXXXX"即可触发，完成后报告将自动发送到你的邮箱。
+一般会有5-10分钟的运行时间，请耐心等待~
 
 ---
 
@@ -47,14 +48,15 @@ AI 分析评估（价值评分 S/A/B/C + 可信度分析 + 风险提示）
 ## 3. 真实案例
 
 > 📸 以下为实际运行截图，展示从触发到收到邮件的完整过程。
+> 
+--发送到默认邮箱
+<img width="2879" height="1706" alt="y1" src="https://github.com/user-attachments/assets/759e66c7-65de-4271-a1ed-a8e5117cdcc3" />
+<img width="2879" height="1706" alt="y3" src="https://github.com/user-attachments/assets/5704c4b7-abc4-4517-b7fa-7180f4c998c2" />
 
-### 案例 1：手动触发（Bot 对话测试）
+--发送到指定邮箱
+<img width="2879" height="1706" alt="y2" src="https://github.com/user-attachments/assets/6deec57c-fcd4-4008-988c-3a49089979c1" />
+<img width="2879" height="1706" alt="y4" src="https://github.com/user-attachments/assets/624d9552-3882-4c62-8d26-8a940e8a5e50" />
 
-<!-- 在此处插入 Bot 对话截图和收到的邮件报告截图 -->
-
-### 案例 2：定时自动触发（每日 8:00）
-
-<!-- 在此处插入定时任务执行记录和收到的邮件报告截图 -->
 
 ---
 
