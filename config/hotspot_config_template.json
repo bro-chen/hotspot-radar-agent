@@ -1,0 +1,12 @@
+{
+  "_comment": "配置文件模板 — 使用前请复制为 hotspot_config.json 并填入真实值",
+  "api_url": "https://YOUR_DEPLOYMENT_ID.coze.site/async_run",
+  "auth_token": "YOUR_API_TOKEN_HERE",
+  "keywords": [
+    "科技",
+    "AI",
+    "金融"
+  ],
+  "recipient_email": "your@email.com",
+  "trigger_type": "auto"
+}
